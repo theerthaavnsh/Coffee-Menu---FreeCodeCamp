@@ -8,6 +8,11 @@ First, you'll build a cat photo app to learn the basics of HTML and CSS. Later, 
 
 Finally, you'll learn how to make webpages that respond to different screen sizes by building a photo gallery with Flexbox, and a magazine article layout wwith CSS Grid.
 
+<h2>Course 1: HTML </h2>
+Learn HTML by Building a Cat Photo App, 50% Completed
+HTML tags give a webpage its structure. You can use HTML tags to add photos, buttons, and other elements to your webpage.
+
+In this course, you'll learn the most common HTML tags by building your own cat photo app.
 <h2>Course 2: CSS</h2>
 
 Learn Basic CSS by building a Cafe Menu
