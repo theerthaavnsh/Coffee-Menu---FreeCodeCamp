@@ -19,3 +19,10 @@ Learn Basic CSS by building a Cafe Menu
 CSS tells the browser how to display your webpage. You can use CSS to set the color, font, size, and other aspects of HTML elements.
 
 In this course, you'll learn CSS by designing a menu page for a cafe webpage.
+
+<h2>Course 3: CSS Colors </h2>
+
+Learn CSS Colors by Building a Set of Colored Markers, Completed
+Selecting the correct colors for your webpage can greatly improve the aesthetic appeal to your readers.
+
+In this course, you'll build a set of colored markers. You'll learn different ways to set color values and how to pair colors with each other.
