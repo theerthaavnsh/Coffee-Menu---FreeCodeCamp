@@ -8,9 +8,9 @@ First, you'll build a cat photo app to learn the basics of HTML and CSS. Later, 
 
 Finally, you'll learn how to make webpages that respond to different screen sizes by building a photo gallery with Flexbox, and a magazine article layout wwith CSS Grid.
 
-<h2>Course 2: CSS<h2>
+<h2>Course 2: CSS</h2>
 
-Learn Basic CSS by Building a Cafe Menu, Completed
+Learn Basic CSS by building a Cafe Menu
 CSS tells the browser how to display your webpage. You can use CSS to set the color, font, size, and other aspects of HTML elements.
 
 In this course, you'll learn CSS by designing a menu page for a cafe webpage.
