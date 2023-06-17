@@ -12,4 +12,14 @@
 }
 .one {
 width: 425px ;
+height: 150px;
+  background-color: #efb762;
+  margin: 20px auto;
+}
+
+.two {
+  width: 475px;
+  height: 200px;
+  background-color: #8f0401;
+  margin: auto;
 }
