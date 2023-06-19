@@ -42,3 +42,9 @@ You will be making a survey form to collect data from users.
 <h2>Course 4: Rohtko Painting </h3>
 
 Learning advanced CSS by recreating a Rohtko painting using pure HTML and css.
+
+<h2>Course 5: Building a cat photo gallery using CSS </h3>
+
+Flexbox helps you design your webpage so that it looks good on any screen size.
+
+In this course, you'll use Flexbox to build a responsive photo gallery webpage.
