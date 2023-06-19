@@ -46,5 +46,10 @@ Learning advanced CSS by recreating a Rohtko painting using pure HTML and css.
 <h2>Course 5: Building a cat photo gallery using CSS </h3>
 
 Flexbox helps you design your webpage so that it looks good on any screen size.
-
 In this course, you'll use Flexbox to build a responsive photo gallery webpage.
+
+<h2>Course 6: Learn Typography </h3>
+
+Typography is the art of styling your text to be easily readable and suit its purpose.
+
+In this course, you'll use typography to build a nutrition label webpage. You'll learn how to style text, adjust line height, and position your text using CSS.
